@@ -14,4 +14,4 @@ PRODUCT_COPY_FILES += \
 #        PRODUCT_COPY_FILES += external/wlan_loader/firmware/fw_bcm4329.bin:system/etc/firmware/fw_bcm4329.bin
 #endif
 
-PRODUCT_COPY_FILES +=  external/wlan_loader/wlan_mac:/system/bin/wlan_mac
+
